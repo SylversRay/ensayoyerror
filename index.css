@@ -1,0 +1,23 @@
+body{
+    background-image: image('miau');
+}
+img.dofus
+    {width: 50%;
+        }
+
+div.titulo 
+    {background-color: rgb(247, 229, 229);
+    width: 13%;
+    font-size: x-large;}
+
+h1.letras 
+    {font-family: A-15-BIT;
+    src: ('A-15-BIT') format('truetype');
+    font-style: unset;
+    font-weight: lighter;}
+
+a.pinchame 
+    {font-family: A-15-BIT;
+        src: ('A-15-BIT') format('truetype');
+        font-style: unset;
+        font-weight: lighter;}
